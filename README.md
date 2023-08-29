@@ -10,4 +10,4 @@
 - Vetores e Matrizes
 
 
-Meus agradecimentos ao professor Nelio Alves pelo conhecimento;
+Meus agradecimentos ao professor Nelio Alves pelo conhecimento.
