@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Logica e Algoritmos em Portugol 
+# 👨🏽‍💻 Logica e Algoritmos
 
 
 
@@ -9,5 +9,13 @@
 - Estruturas Repetitivas
 - Vetores e Matrizes
 
+## 🤖 Linguagens Ultilizadas:
 
-Meus agradecimentos ao professor Nelio Alves pelo conhecimento.
+- Portugol
+- Python
+- C
+- C++
+- C#
+- Java
+
+Meus agradecimentos ao professor Nelio Alves pelo conhecimento;
